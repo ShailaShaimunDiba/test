@@ -1,0 +1,32 @@
+/*Header Section CSS */
+
+.hearder_section {
+    background-color: #ad0404;
+    font-weight: 500;
+    font-size: 20px;
+
+}
+
+.hearder_section .navbar .nav-link {
+    color: #fff;
+}
+
+.hearder_section .navbar .active {
+    color: #fff !important;
+}
+
+/* Contact Section CSS */
+/* .contact_section .contact_btn {
+    padding-top: 20px;
+} */
+
+/* Footer Section CSS */
+
+.footer_section .footer_icon i {
+    padding-left: 5px;
+    color: #fff;
+    height: 20px;
+    width: 20px;
+    border: #fff;
+    border-radius: 50%;
+}
